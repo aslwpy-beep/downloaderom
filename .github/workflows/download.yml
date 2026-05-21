@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Download File
         run: |
-          curl -L "https://datanodes.to/g95lys4xlrqh/Wicked_Seed_--_fitgirl-repacks.site_--_.part01.rar" -o file.zip
+          curl -L "https://dl.rozmusic.com/Music/1405/02/08/Masoud%20Sadeghloo%20-%20Therapist.mp3" -o file.zip
 
       - name: Upload File
         uses: actions/upload-artifact@v4
